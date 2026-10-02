@@ -94,7 +94,7 @@
 
 | Role | Org | Period |
 |------|-----|--------|
-| Technical Content Writer (Intern) | Juteq | Mar 2026 – Present |
+| Technical Content Writer (Intern) | Juteq | Mar 2026 – Aug 2026 |
 | Research Intern, CSE | NIT Warangal | May – Jul 2026 |
 | AI/ML Intern | Infosys Springboard | Sep – Nov 2025 |
 | Campus Mantri (Community Lead) | GeeksforGeeks MVGR | Apr 2025 – Jan 2026 |
